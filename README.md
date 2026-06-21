@@ -7,7 +7,7 @@
   <br/><br/>
   <a href="https://authon.pro"><img src="https://img.shields.io/badge/Website-authon.pro-blue?style=for-the-badge" alt="Website" /></a>
   <a href="https://authon.pro/docs"><img src="https://img.shields.io/badge/Docs-API%20Reference-green?style=for-the-badge" alt="Docs" /></a>
-  <a href="https://discord.gg/jMZCTKPsmE"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://discord.gg/MTY79JDFm6"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://authon.pro/status"><img src="https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge" alt="Status" /></a>
 </p>
 
@@ -301,7 +301,7 @@ dotnet run
 |----------|-----|
 | 🌐 Website | https://authon.pro |
 | 📖 Documentation | https://authon.pro/docs |
-| 💬 Discord | https://discord.gg/jMZCTKPsmE |
+| 💬 Discord | https://discord.gg/MTY79JDFm6 |
 | 📊 Status Page | https://authon.pro/status |
 | 🔗 API Endpoint | https://api.authon.pro/v1 |
 | 🏥 API Health | https://api.authon.pro/health |
